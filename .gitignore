@@ -1,0 +1,24 @@
+.DS_Store
+node_modules
+dist
+proxyTarget.js
+
+# Log files
+*.log
+*.lock
+*-lock.json
+package-lock.json
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
+
+/src/base-resource
+
+.env.development
+.env.production
