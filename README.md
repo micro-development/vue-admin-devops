@@ -1,13 +1,14 @@
 # ITTLR 云CI构建系统
 
-> 管理端 云CI构建系统。
+## 依赖信息
 
-## 依赖其他模块
+- [微开发官方文档](https://docs.microdevelopment.dev/)
+- [it-md shell 脚手架](https://github.com/micro-development/micro-development-sh)
 
-- ittlr-admin-common
-- ittlr-admin-basic
+## 依赖模块
 
-以上两个仓库的权限必须拥有，否则无法使用。
+- [公共模块](https://github.com/micro-development/vue-admin-common)
+- [账户中心模块](https://github.com/micro-development/vue-admin-basic)
 
 ## 克隆仓库
 
