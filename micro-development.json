@@ -1,0 +1,22 @@
+{
+  "name": "vue-admin-devops",
+  "description": "vue-adnin-devops",
+  "author": "yaimeet",
+  "targetDir": "src/base-resource",
+  "gitHost": "git@github.com",
+  "gitNamespace": "micro-development",
+  "packageKeySplit": "#",
+  "dependencies": {
+    "vue-admin-common#master": {
+      "gitRepoName": "vue-admin-common",
+      "gitBranchName": "master",
+      "lock": false
+    },
+    "vue-admin-basic#master": {
+      "gitRepoName": "vue-admin-basic",
+      "gitBranchName": "master",
+      "lock": false
+    }
+  },
+  "lock": false
+}
